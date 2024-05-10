@@ -1,7 +1,0 @@
-1(Boot) + 1(SUperbloke) + 2500(Bitmapa bloke) + 7 (Bit mapa inodo) + 32000( inodo) + Datuak
-
-20GB/1k = Zenbat bloke = 20MB
-
-20MB/8 = Zenbat bit = 2500Mb
-
-2500Mb/1kB = Zenbat okupatu
